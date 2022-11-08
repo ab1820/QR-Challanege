@@ -12,7 +12,6 @@ a qr code challenge from frontend mentor - beginners
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
