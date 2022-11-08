@@ -24,8 +24,7 @@ I decided for my very first challenge to take on the very simple QR Code for Fro
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ab1820.github.io/QR-Challanege/)
 
 ## My process
 Being a beginner in web development, creating things from scratch is still a challenge in itself for me. I decided to try and tackle this project starting with the position property.
