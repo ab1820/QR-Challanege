@@ -19,7 +19,7 @@ Frontend Mentor has a lot of fun and rewarding challenges for any developer to p
 I decided for my very first challenge to take on the very simple QR Code for Frontend Mentor. Created only with HTML5 and CSS3.
 
 ### Screenshot
-#This is my version of the QR Code. (If you locate the design folder, you can see the solution project)
+#This is my version of the QR Code.
 ![Screenshot 2022-11-08 165839](https://user-images.githubusercontent.com/114027684/200684734-25200b59-4112-4984-a7f0-0f4c205b7190.png)
 
 ### Links
@@ -30,8 +30,11 @@ I decided for my very first challenge to take on the very simple QR Code for Fro
 Being a beginner in web development, creating things from scratch is still a challenge in itself for me. I decided to try and tackle this project starting with the position property.
 <br>
 That didn't work. So next I tried CSS Grid, and that worked soooo much easier! 
-Edite* I am still trying to learn the ropes of mobile first! I apologize! I will update the solution once I learn more.
+Edited* I am still trying to learn the ropes of mobile first! I apologize! I will update the solution once I learn more.
 
+With the help of some wonderful people on Frontend Mentor, https://www.frontendmentor.io/profile/AdrianoEscarabote, https://www.frontendmentor.io/profile/vanzasetia, https://www.frontendmentor.io/profile/djbedford, I was able to refactor my CSS code and get everything centered and working as it should! Thank you! 
+
+Love the community around coding!
 
 ### Built with
 
@@ -53,8 +56,6 @@ CSS I am proud of (I really enjoy variables!)
     --DarkBlue: hsl(218, 44%, 22%);
 }
 ```
-
-
 
 ### Continued development
 
